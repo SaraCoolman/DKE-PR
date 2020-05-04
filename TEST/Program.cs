@@ -21,7 +21,7 @@ namespace TEST
         }
 
         // replace with your connection string if it is different
-        const string MongoDBConnectionString = "mongodb+srv://Yasar:admin@postservice-t7qtp.mongodb.net/test";
+        const string MongoDBConnectionString = "mongodb+srv://Sara:admin@cluster0-pjchg.azure.mongodb.net/test";
 
         public static async Task Main(string[] args)
         {
